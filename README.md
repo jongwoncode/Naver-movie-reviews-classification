@@ -1,15 +1,15 @@
 # Naver-movie-reviews-classification(네이버 영화 리뷰 감정 분류)
 
 ## 💬프로젝트 내용
-* 1. **주제** : **네이버 영화 리뷰 감정 분류**
-* 2. **구성원** : **이종원(개인 프로젝트)**
-* 3. **진행기간** : **2023.01.18~2023.01.24(진행중)**
+1. **주제** : **네이버 영화 리뷰 감정 분류**
+2. **구성원** : **이종원(개인 프로젝트)**
+3. **진행기간** : **2023.01.18~2023.01.24(진행중)**
 
 
 ## 👻프로젝트 목적
-* 1. 한글 텍스트 분류를 다양하게 진행함으로서 Word Representaion과 Text Classifiction에 대한 이해 함양.
-* 2. scikit-learn의 다양한 모델과 기술을 활용하여 scikit-learn 라이브러리에 대한 이해 함양.
-* 3. 다양한 word representation model, classification model, stacking모델을 사용하여 정확도를 높히는 일련의 과정 경험.
+1. 한글 텍스트 분류를 다양하게 진행함으로서 Word Representaion과 Text Classifiction에 대한 이해 함양.
+2. scikit-learn의 다양한 모델과 기술을 활용하여 scikit-learn 라이브러리에 대한 이해 함양.
+3. 다양한 word representation model, classification model, stacking모델을 사용하여 정확도를 높히는 일련의 과정 경험.
 
 ## 😎프로젝트에서 사용할 기술들
 * **Preprocessing Method**
